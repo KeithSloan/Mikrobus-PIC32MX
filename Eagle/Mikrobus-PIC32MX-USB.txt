@@ -1,0 +1,36 @@
+Partlist exported from /home/family/Dropbox/Eagle_FreeWare_Designs/Mikrobus-PIC32MX/Mikrobus-PIC32MX-USB.sch at 13/11/2016 14:29
+
+Part Value                Device               Package       Description                SPICEMODEL SPICEPREFIX
+C1   10uF                 C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C2   20pF                 C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C3   20pF                 C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C4   0.1uF                C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C5   0.1uF                C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C6   0.1uF                C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C7   4.7uF                C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C8   0.1uF                C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C9   0.1uF                C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+C10  10uF                 C-EU025-024X044      C025-024X044  CAPACITOR, European symbol                       
+JP1                       PINHD-1X8            1X08          PIN HEADER                                       
+JP2                       PINHD-1X6            1X06          PIN HEADER                                       
+L1                        L0204/7              0204/7        INDUCTOR, European symbol  NONE       L          
+LED1 LED1.8MM             LED1.8MM             LED1.8MM      LED                                              
+LED2 LED1.8MM             LED1.8MM             LED1.8MM      LED                                              
+LED3 LED1.8MM             LED1.8MM             LED1.8MM      LED                                              
+LED4 LED1.8MM             LED1.8MM             LED1.8MM      LED                                              
+LED5 LED1.8MM             LED1.8MM             LED1.8MM      LED                                              
+MB1  MIKROBUS             MIKROBUS             MIKROBUS      MikroBUS                                         
+R1   1M                   R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R2   33                   R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R3   330                  R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R4   330                  R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R5   1K                   R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R6   10K                  R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R7   1K                   R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R8   1K                   R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R9   1K                   R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R10  1K                   R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+R11  1K                   R-EU_0204/5          0204/5        RESISTOR, European symbol                        
+U1   PIC32MX250F128B-I_SP PIC32MX250F128B-I_SP SPDIP28_300MC                                                  
+USB1 MICRO-USB            MICRO-USB            USB-WURTH                                                      
+X1   CRYSTALS-NOGND-HC49  CRYSTALS-NOGND-HC49  HC49          CRYSTALS CAN NOT GROUNDED                        

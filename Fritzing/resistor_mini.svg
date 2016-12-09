@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.236169in" height="0.0587008in" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 900 224"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ baseProfile="tiny"
+ xmlns:svg="http://www.w3.org/2000/svg">
+ <g id="THT_mini">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="resistor_mini">
+   <g id="breadboard">
+    <rect id="connector0pin" fill="none" x="37" y="84" width="20" height="20"/>
+    <rect id="connector1pin" fill="none" x="844" y="84" width="20" height="20"/>
+    <line id="connector0leg" fill="none" stroke="#8C8C8C" stroke-width="110.944" stroke-linecap="round" x1="55" y1="113" x2="84" y2= "113" />
+    <line id="connector1leg" fill="none" stroke="#8C8C8C" stroke-width="110.944" stroke-linecap="round" x1="845" y1="113" x2="816" y2= "113" />
+    <line fill="none" stroke="#8C8C8C" stroke-width="110.944" x1="55" y1="113" x2="833" y2= "113" />
+    <path id="body" fill="#D9B477" d="M280 10c-12,-5 -32,-10 -45,-10l-65 0c-13,0 -24,11 -24,24l0 176c0,13 11,24 24,24l65 0c13,0 33,-4 45,-10l2 -1c12,-5 32,-10 45,-10l236 0c13,0 33,4 45,10l2 1c12,5 32,10 45,10l65 0c13,0 24,-11 24,-24l0 -176c0,-13 -11,-24 -24,-24l-65 0c-13,0 -33,5 -45,10l-2 1c-12,5 -32,10 -45,10l-236 0c-13,0 -33,-5 -45,-10l-2 -1z"/>
+    <rect id="gold_band" fill="#AD9F4E" x="667" width="23" height="224"/>
+    <rect id="band_rd_multiplier" fill="#8A3D06" x="475" y="21" width="61" height="182"/>
+    <rect id="band_2_nd" fill="#C40808" x="353" y="21" width="61" height="182"/>
+    <path id="band_1_st" fill="#C40808" d="M292 15c-4,-1 -7,-2 -10,-4l-2 -1c-12,-5 -32,-10 -45,-10l-3 0 0 224 3 0c13,0 33,-4 45,-10l2 -1c3,-1 6,-3 10,-4l0 -194z"/>
+    <path id="Shadow" fill="black" fill-opacity="0.301961" d="M723 128l0 0c0,12 -4,23 -10,23l-63 0c-13,0 -32,-2 -44,-4l-2 -1c-11,-2 -31,-4 -44,-4l-229 0c-13,0 -32,2 -44,4l-2 1c-11,2 -31,4 -44,4l-10 0 -33 0 -10 0c-13,0 -23,10 -23,21l0 8 0 5 0 6c0,12 10,21 23,21l53 0c13,0 32,-4 44,-9l2 -1c11,-5 31,-9 44,-9l229 0c12,0 32,4 44,9l2 1c11,5 31,9 44,9l73 0c13,0 23,-10 23,-21l0 -18 0 -32 0 -61c-9,4 -23,14 -23,47z"/>
+    <polygon id="ShadowExtra" fill="black" fill-opacity="0.400000" points="667,212 690,212 690,108 667,108 "/>
+    <path id="ReflexRight" fill="white" fill-opacity="0.250980" d="M593 29c8,0 16,-3 22,-6 7,-3 19,-5 32,-5l48 0c7,0 7,8 7,12 0,4 0,13 -7,13l-101 0c-4,0 -8,-4 -8,-7 0,-3 3,-7 7,-7z"/>
+    <path id="ReflexLeft" fill="white" fill-opacity="0.349020" d="M187 31c0,-8 -6,-14 -14,-14 -8,0 -14,6 -14,14 0,8 6,14 14,14 8,0 14,-6 14,-14z"/>
+    <polygon id="Reflex_gold" fill="#FFFF33" fill-opacity="0.501961" points="667,61 690,61 690,8 667,8 "/>
+    <polygon id="Reflex_extra" fill="white" fill-opacity="0.501961" points="667,44 690,44 690,19 667,19 "/>
+   </g>
+  </g>
+ </g>
+</svg>

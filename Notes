@@ -1,0 +1,67 @@
+Adventures with A PIC32mx250f128b
+
+Having used Microchip PIC's in the past I was quite keen to try creating a Mikrobus board with a PIC on it.
+
+Before I could finish some other projects and make a start the topic of PIC's came up in the Raspberry Pi forum. From which I learnt some interesting facts about a chipKit pi. http://wiki.kewl.org/dokuwiki/boards:chipkitpi A chipkit Pi is very much like an Arduino but instead of having a AVR microprocessor it has have a Microchip PIC32mx250f128 with a bootloader installed. With the bootloader installed you can use some software called MPIDE to program it just the same way you program sketches in the Arduino. I also learnt that I could download the bootloader, so all I needed to have a PIC that was usable in the same ways as an Ardunio was to get a PIC32mx250f128 and program it with the bootloader. The good news is I was able to obtain a couple of PIC32mx250f128 chips from Microchips generous free samples scheme
+
+Having attended a Microchip seminar at Winnersh I was also keen to try out MPLAB and Microchips Code generator. The idea behind the code generator is that through GUI menu's you pick a function, then you tailor the function again through menu's and the code generator creates the C code which you can then alter if needed. It was going to be interesting to see if this was easier than creating Arduino sketches for the PIC pretending to be AVR microchip.
+
+I do have an ultimate target for what I would like the PIC and Raspberry Pi to do and that is to log a number of analogue voltages. A check of the PIC32mx250f128 datasheet showed it has 12 analogue pins so I am hopeful.
+
+So my planned road map is
+
+1) Breadboard the PIC32mx250f128 with an ICSP header so that I could program it with a PicKit3
+2) Add wires and resistors so that I could program the PIC from the Raspberry Pi through its GPIO pins using the program pickle http://wiki.kewl.org/dokuwiki/projects:pickle. After all not all Raspberry Pi users will want to invest in a PicKit3
+3) Check using my oscillicope that programing via the PicKit3 would not subject the Raspeberry Pi to greater than 3.3v
+4) Install pickle on the Raspberry Pi
+5) Download the boot loader from http://wiki.kewl.org/dokuwiki/projects:chipkit32
+6) Program the PIC32mx250f128 with the bootloader
+7) Install MPIDE on the Raspberry Pi
+8) Try the sketch to blink an LED
+9) Try a sketch or MPLAB progam to get the PIC to be an I2C slave
+10) Try a sketch to MPLAB program to read an analogue voltage
+11) Develop I2C slave to read analogue voltages and pass to Raspberry Pi via I2C registers
+
+I was keen to use Fritzing to document the Breadboard so the first task was to create a Fritzing part for the PIC32mx250f128.
+This did require wrestling with the Eagle2Fritzing program that is no longer supported. First however I had to obtain an Eagle part for the PIC32mx250f128. This involved a Windows program Ultra Librarian some downloads before running the librarian to get the Eagle part library. Next was the battle with installing Qt and building the Eagle2Fritzing programs brd2svg and lbr2svg. Having run lbr2svg against the Eagle Part I then had the SVG files to allow me to create the Fritzing part. Even with the SVG's creating a Friting part through the Parts editor is quite a slow process. The good news for those who follow is that they can just pick up the Fritzing PIC32mx250f128 part from my GitHub ****
+
+Installing  MPIDE
+
+Instructions at http://wiki.kewl.org/dokuwiki/tools:xc32
+
+Make sure that the symbolic link (ln) creates /opt/pic32-tools.
+
+For installation I used the install script at http://wiki.kewl.org/dokuwiki/boards:chipkitpi:mpide
+But with the version of mpide being mpide-0150-raspberrypi-20150820 instead of mpide-0023-raspberrypi-20130920
+
+Extra steps
+
+sudo apt-get install gcc-avr
+
+Build bootloader
+
+Instructions at http://wiki.kewl.org/dokuwiki/projects:chipkit32
+Before running the hg command need to make sure mercurial is installed
+sudo apt-get install mercurial
+
+To install pickle
+Instructions at http://wiki.kewl.org/dokuwiki/projects:pickle#installation
+
+For RPI I used the following
+
+cd /home/pi
+wget "http://wiki.kewl.org/downloads/pickle.tar.gz"
+tar zxf pickle.tar.gz
+cd pickle
+make
+sudo make install
+
+
+Pickle Config
+
+p32 id
+
+
+
+
+

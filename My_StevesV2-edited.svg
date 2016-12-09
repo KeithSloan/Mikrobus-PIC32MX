@@ -1,0 +1,212 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 188 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.41421;">
+    <g id="schematic">
+        <g id="rect4406" transform="matrix(1,0,0,1,-0.0493162,-0.0328775)">
+            <rect x="10.376" y="0.212" width="166.759" height="114.749" style="fill:white;"/>
+        </g>
+        <g id="text4408" transform="matrix(0.504183,0,0,1,70.8988,72.213)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:9px;fill:black;">PIC32MX250F128B-ISP</text>
+        </g>
+        <path id="connector0pin" d="M0.166,13.713L10.376,13.713" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4416" transform="matrix(0.504183,0,0,1,4.90311,12.73)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">1</text>
+        </g>
+        <g id="text4418" transform="matrix(0.504183,0,0,1,11.0382,14.37)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">*MCLR</text>
+        </g>
+        <path id="connector1pin" d="M0.166,20.462L10.376,20.462" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4422" transform="matrix(0.504183,0,0,1,4.90311,19.48)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">2</text>
+        </g>
+        <g id="text4424" transform="matrix(0.504183,0,0,1,11.0382,21.121)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">VREF+/CVREF+/AN0/C3INC/RPA0/CTED1/PMD7/RA0</text>
+        </g>
+        <path id="connector2pin" d="M0.166,27.214L10.376,27.214" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4428" transform="matrix(0.504183,0,0,1,4.90311,26.231)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">3</text>
+        </g>
+        <g id="text4430" transform="matrix(0.504183,0,0,1,11.0382,27.87)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">VREF-/CVREF-/AN1/RPA1/CTED2/PMD6/RA1</text>
+        </g>
+        <path id="connector3pin" d="M0.166,33.963L10.376,33.963" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4434" transform="matrix(0.504183,0,0,1,4.90311,32.98)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">4</text>
+        </g>
+        <g id="text4436" transform="matrix(0.504183,0,0,1,11.0382,34.621)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">PGED1/AN2/C1IND/C2INB/C3IND/RPB0/PMD0/RB0</text>
+        </g>
+        <path id="connector4pin" d="M0.166,40.712L10.376,40.712" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4440" transform="matrix(0.504183,0,0,1,4.90311,39.73)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">5</text>
+        </g>
+        <g id="text4442" transform="matrix(0.504183,0,0,1,11.0382,41.37)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">PGEC1/AN3/C1INC/C2INA/RPB1/CTED12/PMD1/RB1</text>
+        </g>
+        <path id="connector5pin" d="M0.166,47.464L10.376,47.464" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4446" transform="matrix(0.504183,0,0,1,4.90311,46.479)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">6</text>
+        </g>
+        <g id="text4448" transform="matrix(0.504183,0,0,1,11.0382,48.12)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">AN4/C1INB/C2IND/RPB2/SDA2/CTED13/PMD2/RB2</text>
+        </g>
+        <path id="connector6pin" d="M0.166,54.213L10.376,54.213" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4452" transform="matrix(0.504183,0,0,1,4.90311,53.23)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">7</text>
+        </g>
+        <g id="text4454" transform="matrix(0.504183,0,0,1,11.0382,54.87)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">AN5/C1INA/C2INC/RTCC/RPB3/SCL2/PMWR/RB3</text>
+        </g>
+        <path id="connector7pin" d="M0.166,60.962L10.376,60.962" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4458" transform="matrix(0.504183,0,0,1,4.90311,59.979)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">8</text>
+        </g>
+        <g id="text4460" transform="matrix(0.504183,0,0,1,11.0382,61.62)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">VSS_2</text>
+        </g>
+        <path id="connector8pin" d="M0.166,67.714L10.376,67.714" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4464" transform="matrix(0.504183,0,0,1,4.90311,66.729)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">9</text>
+        </g>
+        <g id="text4466" transform="matrix(0.504183,0,0,1,11.0382,68.37)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">OSC1/CLKI/RPA2/RA2</text>
+        </g>
+        <path id="connector9pin" d="M0.166,74.463L10.376,74.463" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4470" transform="matrix(0.504183,0,0,1,4.53381,73.479)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">10</text>
+        </g>
+        <g id="text4472" transform="matrix(0.504183,0,0,1,11.0382,75.119)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">OSC2/CLKO/RPA3/PMA0/RA3</text>
+        </g>
+        <path id="connector10pin" d="M0.166,81.213L10.376,81.213" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4476" transform="matrix(0.504183,0,0,1,4.53381,80.229)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">11</text>
+        </g>
+        <g id="text4478" transform="matrix(0.504183,0,0,1,11.0382,81.869)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">SOSCI/RPB4/RB4</text>
+        </g>
+        <path id="connector11pin" d="M0.166,87.963L10.376,87.963" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4482" transform="matrix(0.504183,0,0,1,4.53381,86.979)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">12</text>
+        </g>
+        <g id="text4484" transform="matrix(0.504183,0,0,1,11.0382,88.62)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">SOSCO/RPA4/T1CK/CTED9/PMA1/RA4</text>
+        </g>
+        <path id="connector12pin" d="M0.166,94.713L10.376,94.713" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4488" transform="matrix(0.504183,0,0,1,4.53381,93.729)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">13</text>
+        </g>
+        <g id="text4490" transform="matrix(0.504183,0,0,1,11.0382,95.369)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">VDD</text>
+        </g>
+        <path id="connector13pin" d="M0.166,101.463L10.376,101.463" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4494" transform="matrix(0.504183,0,0,1,4.53381,100.479)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">14</text>
+        </g>
+        <g id="text4496" transform="matrix(0.504183,0,0,1,11.0382,102.119)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(8,6,6);">PGED3/RPB5/USBID/RB5</text>
+        </g>
+        <path id="connector14pin" d="M187.343,101.463L177.134,101.463" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4500" transform="matrix(0.504183,0,0,1,181.501,100.479)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">15</text>
+        </g>
+        <g id="text4502" transform="matrix(0.504183,0,0,1,147.939,102.119)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">PGEC3/RPB6/PMD6/RB6</text>
+        </g>
+        <path id="connector15pin" d="M187.343,94.713L177.134,94.713" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4506" transform="matrix(0.504183,0,0,1,181.501,93.729)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">16</text>
+        </g>
+        <g id="text4508" transform="matrix(0.504183,0,0,1,137.106,95.369)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">TDI/RPB7/CTED3/PMD5/INT0/RB7</text>
+        </g>
+        <path id="connector16pin" d="M187.343,87.963L177.134,87.963" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4512" transform="matrix(0.504183,0,0,1,181.501,86.979)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">17</text>
+        </g>
+        <g id="text4514" transform="matrix(0.504183,0,0,1,135.146,88.62)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">TCK/RPB8/SCL1/CTED10/PMD4/RB8</text>
+        </g>
+        <path id="connector17pin" d="M187.343,81.213L177.134,81.213" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4518" transform="matrix(0.504183,0,0,1,181.501,80.229)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">18</text>
+        </g>
+        <g id="text4520" transform="matrix(0.504183,0,0,1,135.266,81.869)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">TDO/RPB9/SDA1/CTED4/PMD3/RB9</text>
+        </g>
+        <path id="connector18pin" d="M187.343,74.463L177.134,74.463" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4524" transform="matrix(0.504183,0,0,1,181.501,73.479)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">19</text>
+        </g>
+        <g id="text4526" transform="matrix(0.504183,0,0,1,171.322,75.119)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">VSS</text>
+        </g>
+        <path id="connector19pin" d="M187.343,67.714L177.134,67.714" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4530" transform="matrix(0.504183,0,0,1,181.501,66.729)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">20</text>
+        </g>
+        <g id="text4532" transform="matrix(0.504183,0,0,1,169.345,68.37)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">VCAP</text>
+        </g>
+        <path id="connector20pin" d="M187.343,60.962L177.134,60.962" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4536" transform="matrix(0.504183,0,0,1,181.501,59.979)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">21</text>
+        </g>
+        <g id="text4538" transform="matrix(0.504183,0,0,1,139.189,61.62)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">PGED2/RPB10/D+/CTED11/RB10</text>
+        </g>
+        <path id="connector21pin" d="M187.343,54.213L177.134,54.213" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4542" transform="matrix(0.504183,0,0,1,181.501,53.23)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">22</text>
+        </g>
+        <g id="text4544" transform="matrix(0.504183,0,0,1,149.707,54.87)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">PGEC2/RPB11/D-/RB11</text>
+        </g>
+        <path id="connector22pin" d="M187.343,47.464L177.134,47.464" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4548" transform="matrix(0.504183,0,0,1,181.501,46.479)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">23</text>
+        </g>
+        <g id="text4550" transform="matrix(0.504183,0,0,1,154.515,48.12)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">AN12/PMD0/RB12</text>
+        </g>
+        <path id="connector23pin" d="M187.343,40.712L177.134,40.712" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4554" transform="matrix(0.504183,0,0,1,181.501,39.73)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">24</text>
+        </g>
+        <g id="text4556" transform="matrix(0.504183,0,0,1,137.964,41.37)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">AN11/RPB13/CTPLS/PMRD/RB13</text>
+        </g>
+        <path id="connector24pin" d="M187.343,33.963L177.134,33.963" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4560" transform="matrix(0.504183,0,0,1,181.501,32.98)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">25</text>
+        </g>
+        <g id="text4562" transform="matrix(0.504183,0,0,1,112.128,34.621)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">CVREF/AN10/C3INB/RPB14/VBUSON/SCK1/CTED5/RB14</text>
+        </g>
+        <path id="connector25pin" d="M187.343,27.214L177.134,27.214" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4566" transform="matrix(0.504183,0,0,1,181.501,26.231)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">26</text>
+        </g>
+        <g id="text4568" transform="matrix(0.504183,0,0,1,123.124,27.87)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">AN9/C3INA/RPB15/SCK2/CTED6/PMCS1/RB15</text>
+        </g>
+        <path id="connector26pin" d="M187.343,20.462L177.134,20.462" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4572" transform="matrix(0.504183,0,0,1,181.501,19.48)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">27</text>
+        </g>
+        <g id="text4574" transform="matrix(0.504183,0,0,1,169.547,21.121)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">AVSS</text>
+        </g>
+        <path id="connector27pin" d="M187.343,13.713L177.134,13.713" style="fill:none;stroke-width:0.33px;stroke:rgb(120,120,120);"/>
+        <g id="text4578" transform="matrix(0.504183,0,0,1,181.501,12.73)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:2.657px;fill:rgb(140,140,140);">28</text>
+        </g>
+        <g id="text4580" transform="matrix(0.504183,0,0,1,169.105,14.37)">
+            <text x="0px" y="0px" style="font-family:'DroidSans';font-size:5px;fill:rgb(6,5,5);">AVDD</text>
+        </g>
+        <path id="line4582" d="M10.376,0.212L10.376,114.963" style="fill:none;stroke-width:0.43px;stroke:black;"/>
+        <path id="line4584" d="M10.376,114.963L177.134,114.963" style="fill:none;stroke-width:0.43px;stroke:black;"/>
+        <path id="line4586" d="M177.134,114.963L177.134,0.212" style="fill:none;stroke-width:0.43px;stroke:black;"/>
+        <path id="line4588" d="M177.134,0.212L10.376,0.212" style="fill:none;stroke-width:0.43px;stroke:black;"/>
+    </g>
+</svg>
